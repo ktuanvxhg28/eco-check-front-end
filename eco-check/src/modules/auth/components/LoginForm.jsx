@@ -148,7 +148,7 @@ export default function LoginForm({ onLoginSuccess }) {
                         type="button"
                         className="btn btn-link btn-floating mx-1"
                       >
-                         <i className="fab fa-github"></i>
+                        <i className="fab fa-github"></i>
                       </button>
                     </div>
                   </div>
